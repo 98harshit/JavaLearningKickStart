@@ -13,7 +13,7 @@ public class SingleDimensionalArray {
 		arr1[4]=50;
 		
 		System.out.println(arr1.length);
-		for(int i=0;i<arr1[i];i++)
+		for(int i=0;i<arr1.length;i++)
 		{
 			System.out.println(arr1[i]);
 		}
