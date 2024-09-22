@@ -18,7 +18,7 @@ public static void main(String[] args) throws IOException {
 
 		//Step 3 - Use set property method to set property
 		p.setProperty("url", "rvc");	
-		p.store(fis, "Sample comments");
+		p.store(fis, "Sample comment");
 		}
 
 
