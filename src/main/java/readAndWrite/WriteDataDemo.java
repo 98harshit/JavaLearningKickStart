@@ -16,7 +16,6 @@ public static void main(String[] args) throws IOException {
 		//Step 2 - create an object of properties class
 		Properties p = new Properties();
 
-		
 		//Step 3 - Use set property method to set property
 		p.setProperty("url", "rvc");	
 		p.store(fis, "Sample comment");
